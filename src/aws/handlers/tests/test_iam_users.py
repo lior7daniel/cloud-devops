@@ -1,7 +1,7 @@
 import unittest
 from unittest.mock import MagicMock
 
-from src.aws.handlers.iam_users import IAMHandler
+from src.aws.handlers.iam_users_handler import IAMHandler
 
 
 class TestIAMHandler(unittest.TestCase):
