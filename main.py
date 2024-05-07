@@ -1,4 +1,4 @@
-from src.aws.handlers.iam_users_handler import IAMHandler
+from src.aws.handlers import IAMHandler
 
 
 def main():
